@@ -6,7 +6,7 @@
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: , Arial, sans-serif;
 }
 
 .header {
@@ -108,7 +108,7 @@
   width: 80%;
   margin: 0 auto 0 auto;
   padding: 0;
-  border: 1px solid red;
+  /*border: 1px solid red;*/
   
   
   
@@ -134,8 +134,16 @@ font-weight: normal;
 line-height: 34px;
 }
 
+.two-columns__span-accent {
+font-size: 24px;
+font-weight: 600;
+line-height: 34px;
+}
+
+
 .margin {
   margin-bottom: 10px;
+  
 }
 
 
