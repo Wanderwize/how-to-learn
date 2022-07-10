@@ -35,12 +35,7 @@
 }
 
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  ;
-  margin-top: 80px;
-}
+
 
 .logo {
   width: 228px;
@@ -177,7 +172,7 @@
   line-height: 34px;
   text-align: center;
   margin: 20px auto 0 auto;
-  width: 60%
+  width: 60%;
 }
 
 .table {
@@ -284,8 +279,10 @@
 }
 
 .table__cell_theme_dark {
-  width: 200px;
   z-index: 10;
+  width: 200px;
+  color: white;
+  margin-top: 80px;
 
 
 }
@@ -312,7 +309,7 @@
   line-height: 34px;
   text-align: center;
   margin: 20px auto 0px auto;
-  width: 60%
+  width: 60%;
 }
 
 .table__text_theme_dark {
@@ -384,7 +381,7 @@
 
 .column__links {
   padding-left: 0;
-  margin: 20px auto 16px
+  margin: 20px auto 16px;
 }
 
 .column__links_no-marker {
