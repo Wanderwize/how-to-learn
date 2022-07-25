@@ -4,4 +4,5 @@
   margin: 0 auto 0;
   width: 1050px;
   transform: translate(0px, 50px);
+  overflow: visible;
 }
